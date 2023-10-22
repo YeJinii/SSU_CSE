@@ -1,12 +1,12 @@
 # Operating_System
 
 ## Contents
-- [project_01](https://github.com/YeJinii/Operating_System/edit/main/README.md#project_01)
-- [project_02](https://github.com/YeJinii/Operating_System/edit/main/README.md#project_02)
-- [project_03](https://github.com/YeJinii/Operating_System/edit/main/README.md#project_03)
-- [project_04](https://github.com/YeJinii/Operating_System/edit/main/README.md#project_04)
-- [project_05](https://github.com/YeJinii/Operating_System/edit/main/README.md#project_05)
-- [project_06](https://github.com/YeJinii/Operating_System/edit/main/README.md#project_06)
+* project_01
+* project_02
+* project_03
+* project_04
+* project_05
+* project_06
 
 ## Main subjects
 ### project_01
