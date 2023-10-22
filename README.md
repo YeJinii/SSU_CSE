@@ -2,11 +2,19 @@
 숭실대학교 IT대학 컴퓨터학부
 ## Contents
 ### freshman_1st
-- C_Basic_Programming
+- [C_Basic_Programming](https://github.com/YeJinii/SSU_CSE/tree/main/freshman_1st/C_Basic_Programming)
 ### sophomore_2nd
-- Java_Basic_Programming
+- [Java_Basic_Programming](https://github.com/YeJinii/SSU_CSE/tree/main/sophomore_2nd/Java_Basic_Programming)
 ### junior_3rd
-- Linux_System_Programming
-- Operating_System
+- [Linux_System_Programming](https://github.com/YeJinii/SSU_CSE/tree/main/junior_3rd/Linux_System_Programming)
+  - [ssu_mntr](https://github.com/YeJinii/SSU_CSE/tree/main/junior_3rd/Linux_System_Programming/ssu_mntr)
+  - [ssu_crontab](https://github.com/YeJinii/SSU_CSE/tree/main/junior_3rd/Linux_System_Programming/ssu_crontab)
+- [Operating_System](https://github.com/YeJinii/SSU_CSE/tree/main/junior_3rd/Operating_System)
+  - [project_01](https://github.com/YeJinii/SSU_CSE/tree/main/junior_3rd/Operating_System/project_01)
+  - [project_02](https://github.com/YeJinii/SSU_CSE/tree/main/junior_3rd/Operating_System/project_02)
+  - [project_03](https://github.com/YeJinii/SSU_CSE/tree/main/junior_3rd/Operating_System/project_03)
+  - [project_04](https://github.com/YeJinii/SSU_CSE/tree/main/junior_3rd/Operating_System/project_04)
+  - [project_05](https://github.com/YeJinii/SSU_CSE/tree/main/junior_3rd/Operating_System/project_05)
+  - [project_06](https://github.com/YeJinii/SSU_CSE/tree/main/junior_3rd/Operating_System/project_06)
 ### senior_4th
-- Web_Programming
+- [Web_Programming](https://github.com/YeJinii/SSU_CSE/tree/main/senior_4th/Web_Programming)
