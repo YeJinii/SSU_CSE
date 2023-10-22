@@ -1,9 +1,18 @@
 # Operating_System
 
-### OS_project01
+## Contents
+- [project_01](https://github.com/YeJinii/Operating_System/edit/main/README.md#project_01)
+- [project_02](https://github.com/YeJinii/Operating_System/edit/main/README.md#project_02)
+- [project_03](https://github.com/YeJinii/Operating_System/edit/main/README.md#project_03)
+- [project_04](https://github.com/YeJinii/Operating_System/edit/main/README.md#project_04)
+- [project_05](https://github.com/YeJinii/Operating_System/edit/main/README.md#project_05)
+- [project_06](https://github.com/YeJinii/Operating_System/edit/main/README.md#project_06)
+
+## Main subjects
+### project_01
 Linux의 명령어 실행을 통한 운영체제 기본 개념 이해 (보고서 작성)
 
-### OS_project02
+### project_02
 간단한 Shell 및 기본 명령어 구현
 
 1. 과제 목표
@@ -21,7 +30,7 @@ Linux의 명령어 실행을 통한 운영체제 기본 개념 이해 (보고서
     - Linux 내장 명령어를 실행하는 간단한 쉘 (SSUShell) 구현
     - 쉘 명령어 ttop(top), pps(ps) 구현
 
-### OS_project03
+### project_03
 xv6에서 시스템 호출 추가 및 스케쥴러 수정
 
 * 과제 목표
@@ -55,7 +64,7 @@ xv6에서 시스템 호출 추가 및 스케쥴러 수정
      3. 우선순위 기반 RR 스케쥴러 구현
      4. 새로운 스케쥴러를 테스트 및 검증
 
-### OS_project04
+### project_04
 Pthread
 * 과제 목표
   - 다중 쓰레드 프로그래밍의 기본 개념을 이해
@@ -75,7 +84,7 @@ Pthread
   2. Reader-Writer Locks 쓰레드 프로그램 구현
   3. pthread를 이용한 사용자 수준 세마포어(SSU_Sem) 구현
 
-### OS_project05
+### project_05
 동적 메모리 관리
 
 * 과제 목표
@@ -95,7 +104,7 @@ Pthread
   1. 간단한 메모리 관리자(동적으로 메모리 할당 및 해제) 구현
   2. 확장 가능한 Heap
 
-### OS_project06
+### project_06
 파일 시스템
 
 * 과제 목표
