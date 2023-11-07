@@ -18,3 +18,4 @@
   - [project_06](https://github.com/YeJinii/SSU_CSE/tree/main/junior_3rd/Operating_System/project_06)
 ### senior_4th
 - [Web_Programming](https://github.com/YeJinii/SSU_CSE/tree/main/senior_4th/Web_Programming)
+- [Coding_Test_Practice](https://github.com/YeJinii/mySoongsil/tree/main/senior_4th/Coding_Test_Practice)
